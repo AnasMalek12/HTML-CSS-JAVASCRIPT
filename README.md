@@ -9,7 +9,7 @@ This repository is created for practice, learning, and showcasing mini projects.
 ## 📂 Projects Included
 - 🎮 **Simon Says Game** – HTML, CSS, JavaScript  
 - 📌 **Sidebar UI** – HTML & CSS
-- 🎵 **Spotify Clone ** – HTML & CSS  
+- 🎵 **Spotify Clone** – HTML & CSS  
 - 🎨 More projects coming soon...
 
 ## 🛠️ Technologies Used
