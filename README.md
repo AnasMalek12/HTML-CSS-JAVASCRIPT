@@ -9,7 +9,8 @@ This repository is created for practice, learning, and showcasing mini projects.
 ## 📂 Projects Included
 - 🎮 **Simon Says Game** – HTML, CSS, JavaScript  
 - 📌 **Sidebar UI** – HTML & CSS
-- 🎵 **Spotify Clone** – HTML & CSS  
+- 🎵 **Spotify Clone** – HTML & CSS
+- 🐱 **Cat Facts** – With Public API
 - 🎨 More projects coming soon...
 
 ## 🛠️ Technologies Used
@@ -23,4 +24,5 @@ HTML-CSS-JAVASCRIPT/
 ├── Simon Says (HTML-CSS-JS)/
 ├── Sidebar (Html-Css)/
 ├── Spotify Clone (HTML-CSS)/
+├── Cat Facts (With API)/
 └── ...
